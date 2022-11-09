@@ -16,7 +16,7 @@ This Math Sprint Game is built with HTML, CSS, JavaScript.
 
 Users should be able to:
 
-- Users can play game and guess if the equations are right or wrong.
+- Users can play games and guess if the equations are right or wrong.
 - Final time used will be calculated at the end of the game.
 - Penalty time will be added for each incorrect answer.
 
